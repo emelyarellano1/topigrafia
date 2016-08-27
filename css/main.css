@@ -1,0 +1,40 @@
+.icon{
+ 
+	color:#6b6b6b;
+	font-size:40px;
+	
+   
+}
+
+
+.contenedor{
+
+	height:360px;
+	width:250px;
+	background-color:#f6f4f4;
+	float:left;
+	text-align:center;
+	margin:3px;
+	padding-top:50px;
+
+
+}
+
+.texto{
+ 
+	text-align:center;
+	margin-top:50px;
+	color:#6b6b6b;
+	font-family: 'Baloo Bhaina', cursive;
+	padding-left:5px;
+	padding-bottom:5px;
+	
+}
+.texto2 {
+
+	text-align:center;
+	margin-bottom:6=50px;
+	color:#6b6b6b;
+    font-family: 'Cagliostro', sans-serif;
+	
+}
